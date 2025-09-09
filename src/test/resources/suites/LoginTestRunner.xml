@@ -1,0 +1,9 @@
+<suite thread-count="1" verbose="1" name="Smart People Mobile APP HRM Test Suite">
+
+    <test name="Login Test Suite">
+        <classes>
+            <class name="testrunner.LoginTestRunner"/>
+        </classes>
+    </test>
+
+</suite>
